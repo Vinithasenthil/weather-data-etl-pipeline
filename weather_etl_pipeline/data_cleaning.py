@@ -40,3 +40,4 @@ output_file = "data/seattle_weather_cleaned.csv"
 df.to_csv(output_file, index=False)
 
 print("Excel converted to cleaned CSV successfully")
+
