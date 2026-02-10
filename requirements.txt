@@ -1,0 +1,11 @@
+# Pandas is used for reading CSV files,
+# data cleaning, transformation, and validation
+pandas
+
+# SQLAlchemy is used to connect Python with MySQL
+# and perform data loading operations
+sqlalchemy
+
+# PyMySQL is the MySQL database driver (DBAPI)
+# used by SQLAlchemy to communicate with MySQL
+pymysql
